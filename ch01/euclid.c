@@ -7,7 +7,6 @@ int euclid(int m, int n) {
 	}
 	return n;
 }
-
 int main(void) {
 	int m, n, r, t;
 	printf("양의 정수 : ");
