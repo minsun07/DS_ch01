@@ -16,4 +16,3 @@ int main(void) {
 	HanoiTower(n, 'A', 'B', 'C');  //'A'는 출발지, 'B'는 경유지, 'C'는 도착지
 	return 0;
 }
-
